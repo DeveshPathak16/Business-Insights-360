@@ -57,27 +57,35 @@ The Files used in the Project are Excel and SQL Files.
 # Final report
 
 - Home Page
+  
  ![Home ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/37d626f3-0433-40d8-80f3-48cef382ae5a)
 
 - Finance view
+  
 ![Finance ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/e84434e2-4d7d-4117-8754-5014e612b734)
 
 - Sales view
+  
 ![Sales ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/25ed6ea4-fc09-4b1c-804b-8b563169f35e)
 
 - Marketing view
+  
 ![Marketing ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/ec5d26ea-0951-4c4a-aa18-db23486ffc40)
 
 - Supply Chain view
+  
 ![Supply Chain ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/79309b69-4de6-4b93-b5c7-e0bc75dd7ed3)
 
 - Executive view
+  
 ![Executive ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/8d632272-1624-407b-9de4-73889f4efe47)
 
 - Info Page
+  
 ![Info ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/8e3aa0bb-6789-4c1f-846f-425353f957f9)
 
 - Support Page
+  
 ![Support ss](https://github.com/DeveshPathak16/Business-Insights-360/assets/144233773/5e72e32f-667f-48b8-8412-ca7726a0bf31)
 
 # Project Outcome
